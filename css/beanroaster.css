@@ -100,3 +100,24 @@ footer {
     top: 177px;
     z-index: 0;
 }
+
+#loadImage1{
+    width:"15%";
+}
+#loadImage2{
+    width:"61%";
+}
+#loadImage3{
+    width:"24%";
+    align: "center";
+}
+#loadImage4{
+    width:"80%";
+}
+#loadImage5{
+    width:"20%";
+    align:"left";
+}
+#alignfordiv{
+    align:"center";
+}
